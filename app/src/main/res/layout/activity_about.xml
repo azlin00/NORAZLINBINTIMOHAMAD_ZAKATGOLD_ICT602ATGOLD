@@ -150,10 +150,10 @@
 
     <TextView
         android:id="@+id/link2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="334dp"
+        android:layout_height="41dp"
         android:fontFamily="sans-serif-condensed-light"
-        android:text="link"
+        android:text="https://github.com/azlin00/NORAZLINBINTIMOHAMAD_ZAKATGOLD_ICT602ATGOLD"
         android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="@+id/link"
         app:layout_constraintTop_toBottomOf="@+id/link" />
